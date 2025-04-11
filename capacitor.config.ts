@@ -2,7 +2,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'app.lovable.7cdda800cfad49beadb80686275039ff',
+  appId: 'com.lovable.claphuemagic',
   appName: 'Clap Hue Magic',
   webDir: 'dist',
   server: {
