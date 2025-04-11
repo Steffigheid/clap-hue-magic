@@ -4,7 +4,7 @@
   "appName": "Clap Hue Magic",
   "webDir": "dist",
   "server": {
-    "url": "https://7cdda800-cfad-49be-adb8-0686275039ff.lovableproject.com?forceHideBadge=true",
+    "url": "https://7cdda800-cfad-49be-adb8-0686274039ff.lovableproject.com?forceHideBadge=true",
     "cleartext": true
   },
   "plugins": {
