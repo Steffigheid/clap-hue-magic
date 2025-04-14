@@ -24,6 +24,7 @@ export default defineConfig(({ mode }) => ({
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
-    sourcemap: mode === 'development',
+    sourcemap: true, // Always generate sourcemaps for better debugging
+    minify: mode === 'production', // Only minify in production
   }
 }));
